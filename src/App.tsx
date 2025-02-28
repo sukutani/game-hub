@@ -8,7 +8,7 @@ import SortSelector from './components/SortSelector';
 import GameHeading from './components/GameHeading';
 import './App.css';
 import { Genre } from './hooks/useGenres';
-import { Platform } from './hooks/useGames';
+import { Platform } from './hooks/usePlatforms';
 
 
 export interface GameQuery {
